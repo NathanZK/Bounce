@@ -18,10 +18,13 @@ This project is a Java-based remake of the classic bounce game, emphasizing obje
 - **Graphical User Interface:** Creation of an intuitive GUI with Swing.
 
 These are the visual representations of this project:
-**Level 1**
+
+## Level 1
+
 ![Level1](https://github.com/NathanZK/Bounce/assets/95658930/87d303c8-f7fa-4000-a0b3-6cfa77ff38f3)
 
-**Level2**
+## Level2
+
 ![Level2](https://github.com/NathanZK/Bounce/assets/95658930/7f9496da-cc5b-41b4-88c9-e0c83b88b7cb)
 
 
