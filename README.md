@@ -27,6 +27,7 @@ These are the visual representations of this project:
 
 ![Level2](https://github.com/NathanZK/Bounce/assets/95658930/7f9496da-cc5b-41b4-88c9-e0c83b88b7cb)
 
+![Bounce (2)](https://github.com/NathanZK/Bounce/assets/95658930/1d3b7186-842c-444e-8dd9-86cbf6f51689)
 
 This project showcases the development of a classic game from the ground up, with a focus on object-oriented programming and creative problem-solving.
 
