@@ -21,15 +21,15 @@ These are the visual representations of this project:
 
 ## Level 1
 
-![Level1](https://github.com/NathanZK/Bounce/assets/95658930/87d303c8-f7fa-4000-a0b3-6cfa77ff38f3)
+![Level1](https://github.com/NathanZK/Bounce/assets/95658930/67b6f13e-f672-4670-b525-71d56b29babb)
 
 ## Level2
 
-![Level2](https://github.com/NathanZK/Bounce/assets/95658930/7f9496da-cc5b-41b4-88c9-e0c83b88b7cb)
+![Level2](https://github.com/NathanZK/Bounce/assets/95658930/d8e63883-a11c-44df-9258-06b77bd0ef5d)
 
 ## Game Demo:
 
-![Bounce (2)](https://github.com/NathanZK/Bounce/assets/95658930/1d3b7186-842c-444e-8dd9-86cbf6f51689)
+![Bounce (2)](https://github.com/NathanZK/Bounce/assets/95658930/f4d973cf-7400-4abd-936d-9a1d6be20a6b)
 
 This project showcases the development of a classic game from the ground up, with a focus on object-oriented programming and creative problem-solving.
 
